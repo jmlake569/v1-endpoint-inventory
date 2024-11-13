@@ -2,7 +2,7 @@
 # Export and Download Endpoint Inventory Report
 
 ## Overview
-This repository provides scripts in both PowerShell and Bash to automate the process of exporting an endpoint inventory report from the Trend Micro's Vision One. The scripts handle task initiation, monitoring the export status, and downloading the resulting ZIP file.
+This repository provides scripts in both PowerShell and Bash to automate the process of exporting an endpoint inventory report from Trend Micro's Vision One. The scripts handle task initiation, monitoring the export status, and downloading the resulting ZIP file.
 
 ## Prerequisites
 - Trend Micro XDR API token
